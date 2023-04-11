@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">agenda2</string>
+    <string name="et1nombre">nombre de contacto</string>
+    <string name="et2datos">datos de contacto</string>
+    <string name="bt1guardar">guardar</string>
+    <string name="bt2buscar">buscar</string>
+
+</resources>
